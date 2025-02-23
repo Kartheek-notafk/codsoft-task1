@@ -19,7 +19,6 @@ public:
 
     bool compare(int temp){
         takes++;
-        cout << targetnum;
         if(temp == targetnum){
             cout << "You have guessed the correct number." << endl;
             cout << "Number of takes " << takes << endl;
