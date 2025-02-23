@@ -78,7 +78,7 @@ int main(){
             return 0;
         }
         else{
-            cout << "Enter valid option:"
+            cout << "Enter valid option:";
         }
     }
     return 0;
