@@ -58,7 +58,7 @@ int main(){
     cout << "If while gussing if you press 0 the game will end" << endl;
 
     string choice;
-    int guess;
+    int guess = 1;
     while(1){
         cout << "Shall we continue with the game" << endl << "YES or NO(all caps or all small plz):  ";
         cin >> choice;
